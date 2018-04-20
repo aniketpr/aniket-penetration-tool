@@ -136,9 +136,9 @@ sqlmap -u $url
 echo "*****************************************************************************"	
 echo "                        WIFI HACKING                                         "
 echo ""
-echo "[1] BruteForce Method(WPA/WPA2)       [4] Fluxion     	                   "
-echo "[2] WPS Cracking                      [5] Create Word List                "
-echo "[3] Deauthentication Attack           [6] Monitor/Managed Mode             "
+echo "[1] BruteForce Method(WPA/WPA2)    "   #[4] Fluxion     	                   "
+echo "[2] WPS Cracking                      [4] Create Word List                "
+echo "[3] Deauthentication Attack           [5] Monitor/Managed Mode             "
 echo "*****************************************************************************"
 echo -e "Select a Module number: \c"
 read option
