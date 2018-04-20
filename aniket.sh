@@ -183,7 +183,7 @@ ifconfig $interface_Name down
 iwconfig $interface_Name mode monitor
 ifconfig $interface_Name up
 
-gnome-terminal -e "airodump-ng $interface_Name"
+gnome-terminal -e "wash -i $interface_Name"
 
 echo -e "Enter The Target Macaddress : \c"
 read TargetMac
