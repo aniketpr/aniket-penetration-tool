@@ -4,5 +4,5 @@ This is the basic bash script for the new hacker . This will all make them to st
 How to run the script :-
 git clone https://github.com/aniketpr/aniket-penetration-tool.git
 
-Then open the folder and run aniket.sh file
+Then open the folder and run aniket.sh file :-
 ./aniket.sh
